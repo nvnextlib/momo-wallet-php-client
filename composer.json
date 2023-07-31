@@ -1,5 +1,5 @@
 {
-    "name": "viecco/momo-wallet-php-client",
+    "name": "nvnextlib/momo-wallet-php-client",
     "description": "SDK for interaction with MoMo eWallet",
     "require": {
       "pear/crypt_gpg": "^1.6",
@@ -15,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "TungNS",
-            "email": "nstung@gmail.com"
+            "name": "Dev",
+            "email": "dev@nhanh.vn"
         }
     ]
 }
