@@ -17,7 +17,7 @@ This is PHP client library for Momo Wallet
     },
     "repositories": [{
       "type": "vcs",
-      "url": "https://github.com/viecco/momo-wallet-php-client"
+      "url": "https://github.com/nvnextlib/momo-wallet-php-client"
     }]
 }
 ```
